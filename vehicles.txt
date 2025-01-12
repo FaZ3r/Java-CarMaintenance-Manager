@@ -1,0 +1,3 @@
+Toyota, Supra, 1996, false
+Volkswagen, Passat, 2006, false
+Mazda, MX-5, 2006, true
